@@ -1,17 +1,16 @@
-
-       {   
-          "study_division": "iPhone",   
-          "study_division_icon": "iPhone is the very stylist phone ever"  
-       },   
-       {   
-          "study_division": "Pixel",   
-          "study_division_icon": "Pixel is the most feature phone ever"  
-       },   
-       {    
-          "study_division": "Laptop",   
-          "study_division_icon": "Laptop is most popular development tool"  
-       },   
-       {    
-          "study_division": "Tablet",   
-          "study_division_icon": "Tablet is the most useful device used for meeting"   
-       }
+{   
+   "study_division": "iPhone",   
+   "study_division_icon": "iPhone is the very stylist phone ever"  
+},   
+{   
+   "study_division": "Pixel",   
+   "study_division_icon": "Pixel is the most feature phone ever"  
+},   
+{    
+   "study_division": "Laptop",   
+   "study_division_icon": "Laptop is most popular development tool"  
+},   
+{    
+   "study_division": "Tablet",   
+   "study_division_icon": "Tablet is the most useful device used for meeting"   
+}
